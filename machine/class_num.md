@@ -1,0 +1,1 @@
+## o 7 com a linha no meio ainda esta sendo dado como 4, o 9 esta dizendo ser 3, o 8 ser 5, o 4 diz ser 9
